@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Kiss My Ass" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+                          </code>
         </p>
       </main>
 
